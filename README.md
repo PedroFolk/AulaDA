@@ -16,7 +16,6 @@
 **Medição de prioridade**
 
 >Método Rice (110 x 3 x 0.8)/23\
->Prioridade RICE = 11,47
-
+>Prioridade 
 
 
